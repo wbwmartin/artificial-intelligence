@@ -1,0 +1,34 @@
+### These are the steps to execute my program using command line ###
+
+1. Place the folder of the source code somewhere
+
+2. Open the Terminal
+
+3. Switch the path to the target directory
+>>> cd <path>
+
+4. Run miniMax.py
+>>> python miniMax.py
+
+5. Follow the instruction, enter an initial number n
+>>> Enter an initial number n: (e.g. 7)
+
+6. Go to the folder "tree" and open the picture (e.g. mm7.gv)
+
+7. Run alphaBeta.py
+>>> python alphaBeta.py
+
+8. Follow the instruction, enter an initial number n
+>>> Enter an initial number n: (e.g. 7)
+
+9. Go to the folder "tree" and open the picture (e.g. ab7.gv)
+
+10. You can also go to the folder "sample" where all the sample output pictures are listed.
+
+
+
+### Note ###
+
+1. It is assumed that the python package "graphviz" is already installed. If not, you can install it through the "graphviz-0.4.1.zip" which can be found in the folder.
+
+2. It is assumed that the software "Graphviz" is installed to open the .gv file. If not, you can export the .gv file to .png or .pdf to view the picture.
